@@ -2,4 +2,4 @@
 
 Cryptocurrency trading platform design, coinbase.
 
-<img src="assets/img/coinase.png" alt="Page"/>
+<img src="assets/img/coinbase.png" alt="Page"/>
